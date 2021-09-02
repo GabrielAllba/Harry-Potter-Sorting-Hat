@@ -26,13 +26,13 @@ The Sorting Hat is a talking hat at Hogwarts that magically determines which of 
 
 How to compile and execute:
 
-1. Download `magicballs.cpp`.
+1. Download `sortinghat.cpp`.
 2. Open command line interface and navigate to the directory where the files are downloaded.
 3. Run the following commands to compile and execute the program:
 
 ```git
-g++ magicballs.cpp -o magicballs
-./magicballs
+g++ sortinghat.cpp -o sortinghat
+./sortinghat
 ```
 
 ## Sources
